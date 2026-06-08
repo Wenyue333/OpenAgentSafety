@@ -177,3 +177,6 @@ cython_debug/
 matterbridge/*
 redis*
 !matterbridge/matterbridge.toml
+
+outputs_opencode/
+outputs_opencode_v2/
